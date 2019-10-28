@@ -1,0 +1,13 @@
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\bin\Debug\netcoreapp2.2\FlickrAPI.deps.json
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\bin\Debug\netcoreapp2.2\FlickrAPI.runtimeconfig.json
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\bin\Debug\netcoreapp2.2\FlickrAPI.runtimeconfig.dev.json
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\bin\Debug\netcoreapp2.2\FlickrAPI.dll
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\bin\Debug\netcoreapp2.2\FlickrAPI.pdb
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.RazorAssemblyInfo.cache
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.RazorAssemblyInfo.cs
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.AssemblyInfoInputs.cache
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.AssemblyInfo.cs
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.dll
+C:\Users\Dilshan\Source\Repos\FlickrAPI\FlickrAPI\obj\Debug\netcoreapp2.2\FlickrAPI.pdb
